@@ -7,25 +7,15 @@ To develop a user-friendly expense tracking system that helps individuals monito
 ⚙️ Technologies Used
 
 Python
-
 File Handling / CSV
-
-(Optional) Pandas & Matplotlib (if used)
-
-(Tell me if you used any libraries and I’ll customize this)
+Pandas & Matplotlib (if used)
 
 ✨ Features
-
 Add income and expense details
-
 Categorize expenses (Food, Travel, Shopping, etc.)
-
 View total income and total expenses
-
 Calculate remaining balance
-
 Store records for future reference
-
 Simple and beginner-friendly interface
 
 🚀 How to Run the Project
@@ -41,29 +31,19 @@ expense-tracker/
 📊 Output
 
 The application displays:
-
 Expense summary
-
 Category-wise spending
-
 Remaining balance
 
 🧠 Learning Outcomes
-
 Improved understanding of Python fundamentals
-
 Hands-on experience with file handling
-
 Logical thinking and problem-solving skills
-
 Real-world application development
 
 🔮 Future Enhancements
 
 Add a graphical user interface (GUI)
-
 Monthly and yearly expense reports
-
 Data visualization using charts
-
 Cloud-based data storage
